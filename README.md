@@ -1,6 +1,6 @@
 ## Real-Time Bit-Level Encryption of Full High Definition Video without Diffusion
 
-#### Dong Jiang, Tao Li, Tao Chen, Xi-jue Zhao, Lin-sheng Huang, and Liang-liang Lu
+#### Dong Jiang, Hui-ran Luo, Zi-jian Cui, Xi-jue Zhao, Lin-sheng Huang, and Liang-liang Lu
 
 #### Develoment enviroment
 
